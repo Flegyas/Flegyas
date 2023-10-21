@@ -13,6 +13,7 @@ jobs:
       - uses: datarootsio/github-stats-card@v1
         with:
           username: Flegyas
+          header: ""
           gh_token_stats: ${{ secrets.GH_PAT }}
           about: ""
           theme: hypnotoad

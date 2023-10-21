@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="https://flegyas.github.io/"><img alt="Flegyas' stats" src="assets/badge.svg"></a><br>
+</p>
+
+---
+
+<p align="center">
+<a href="https://flegyas.github.io/"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-white?logo=google-chrome&style=social" hspace="10"></a>
+<a href="https://www.linkedin.com/in/valentino-maiorca/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
+<a href="https://twitter.com/ValeMaiorca"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=social" hspace="10"></a>
+</p>
